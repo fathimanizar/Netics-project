@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Netics-project/static/css/main.ad4a5cb9.css",
+    "main.js": "/Netics-project/static/js/main.2e3d50b6.js",
+    "static/js/453.eeb9504a.chunk.js": "/Netics-project/static/js/453.eeb9504a.chunk.js",
+    "static/media/i1.jpg": "/Netics-project/static/media/i1.1abfd511c835444957a4.jpg",
+    "static/media/i4.jpg": "/Netics-project/static/media/i4.9528f2a553225e6f086b.jpg",
+    "static/media/i9.jpg": "/Netics-project/static/media/i9.f0b6a989b36fb61eb5bc.jpg",
+    "static/media/i3.jpg": "/Netics-project/static/media/i3.4ec4443b91f9d896e453.jpg",
+    "index.html": "/Netics-project/index.html",
+    "main.ad4a5cb9.css.map": "/Netics-project/static/css/main.ad4a5cb9.css.map",
+    "main.2e3d50b6.js.map": "/Netics-project/static/js/main.2e3d50b6.js.map",
+    "453.eeb9504a.chunk.js.map": "/Netics-project/static/js/453.eeb9504a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4a5cb9.css",
+    "static/js/main.2e3d50b6.js"
+  ]
+}
